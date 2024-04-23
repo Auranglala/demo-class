@@ -1,0 +1,17 @@
+.main{
+    margin: 0;
+    width: 200px;
+    height: 100px;
+    background-color: gray;
+
+}
+.inside{
+    width: 75px;
+    height: 60px;
+    background-color: rgb(221, 20, 20);
+
+}
+.pclass{
+    font-size: xx-large;
+    
+}
